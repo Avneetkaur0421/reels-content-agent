@@ -1,0 +1,5 @@
+reels/
+__pycache__/
+*.pyc
+.env
+outputs/
